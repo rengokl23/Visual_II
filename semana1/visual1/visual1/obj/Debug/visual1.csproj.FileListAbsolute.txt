@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\visual1\visual1\bin\Debug\visual1.exe.config
+C:\Users\crist\source\repos\visual1\visual1\bin\Debug\visual1.exe
+C:\Users\crist\source\repos\visual1\visual1\bin\Debug\visual1.pdb
+C:\Users\crist\source\repos\visual1\visual1\obj\Debug\visual1.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\visual1\visual1\obj\Debug\visual1.Form1.resources
+C:\Users\crist\source\repos\visual1\visual1\obj\Debug\visual1.Properties.Resources.resources
+C:\Users\crist\source\repos\visual1\visual1\obj\Debug\visual1.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\visual1\visual1\obj\Debug\visual1.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\visual1\visual1\obj\Debug\visual1.exe
+C:\Users\crist\source\repos\visual1\visual1\obj\Debug\visual1.pdb
+C:\Users\crist\source\repos\visual1\visual1\obj\Debug\visual1.exe.config

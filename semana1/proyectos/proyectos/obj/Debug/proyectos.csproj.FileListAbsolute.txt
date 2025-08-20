@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\proyectos\proyectos\bin\Debug\proyectos.exe.config
+C:\Users\crist\source\repos\proyectos\proyectos\bin\Debug\proyectos.exe
+C:\Users\crist\source\repos\proyectos\proyectos\bin\Debug\proyectos.pdb
+C:\Users\crist\source\repos\proyectos\proyectos\obj\Debug\proyectos.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\proyectos\proyectos\obj\Debug\proyectos.Form1.resources
+C:\Users\crist\source\repos\proyectos\proyectos\obj\Debug\proyectos.Properties.Resources.resources
+C:\Users\crist\source\repos\proyectos\proyectos\obj\Debug\proyectos.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\proyectos\proyectos\obj\Debug\proyectos.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\proyectos\proyectos\obj\Debug\proyectos.exe
+C:\Users\crist\source\repos\proyectos\proyectos\obj\Debug\proyectos.pdb
+C:\Users\crist\source\repos\proyectos\proyectos\obj\Debug\proyectos.exe.config
